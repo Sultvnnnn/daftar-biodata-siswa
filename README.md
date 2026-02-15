@@ -6,3 +6,5 @@ Daftar biodata siswa Universitas Friday
 - angkatan 2026
 - angkatan 2027
 - angkatan 2028
+
+*praktek github biarjago aowkoawk*
